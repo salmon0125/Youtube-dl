@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Youtube-dl</string>
     <string name="go_download">Go Download</string>
+    <string name="download_url_default">Paste the URL here</string>
+    <string name="button_start_download">Download</string>
+    <string name="url_error">enter a valid url</string>
+    <string name="download_start">Starting Download</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="download_doing">Downloading...</string>
 </resources>
