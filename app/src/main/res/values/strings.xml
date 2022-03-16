@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Youtube-dl</string>
+    <string name="go_download">Go Download</string>
+</resources>
